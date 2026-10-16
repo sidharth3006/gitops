@@ -2,7 +2,7 @@ replicaCount: 1
 fullnameOverride: manufacturing-service
 image:
   repository: 312892679890.dkr.ecr.us-east-1.amazonaws.com/manufacturing-service
-  tag: sha-9791f17
+  tag: sha-60923cd
   pullPolicy: Always
 service:
   type: ClusterIP
